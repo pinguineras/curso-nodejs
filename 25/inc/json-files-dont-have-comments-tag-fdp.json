@@ -1,0 +1,9 @@
+// This is a fucking
+// JavaScript Object Notation JSON
+
+{
+	// es : 'arriba arriba!',
+	// en : 'Real world hello' // This ill no work, cause  es and en is not an property, but an key ?
+	"en": "Know its working",
+	"es": "Arruera estas funcionando senor"
+}
